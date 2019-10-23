@@ -1,0 +1,401 @@
+@font-face {
+    font-family: 'nytimperialregular';
+    src: url('imperial-normal-500-webfont.woff2') format('woff2'),
+         url('imperial-normal-500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'franklin';
+    src: url('franklin-normal-500-webfont.woff2') format('woff2'),
+         url('franklin-normal-500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'nytcheltenhammediumitalic';
+    src: url('cheltenham-italic-500-webfont.woff2') format('woff2'),
+         url('cheltenham-italic-500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'nytfranklinbold';
+    src: url('franklin-normal-700-webfont.woff2') format('woff2'),
+         url('franklin-normal-700-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nytcheltenhamcondmedium';
+    src: url('cheltenham-cond-normal-500-webfont.woff2') format('woff2'),
+         url('cheltenham-cond-normal-500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nytcheltenhambook';
+    src: url('cheltenham-normal-400-webfont.woff2') format('woff2'),
+         url('cheltenham-normal-400-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nytcheltenhammedium';
+    src: url('cheltenham-normal-500-webfont.woff2') format('woff2'),
+         url('cheltenham-normal-500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nytcheltenhamwideregular';
+    src: url('cheltenham-wide-normal-400-webfont.woff2') format('woff2'),
+         url('cheltenham-wide-normal-400-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nytcheltenhamlight';
+    src: url('cheltenham-normal-300-webfont.woff2') format('woff2'),
+         url('cheltenham-normal-300-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'nytcheltenhamextralight';
+    src: url('cheltenham-normal-200-webfont.woff2') format('woff2'),
+         url('cheltenham-normal-200-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+  html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  body {
+    font-family: 'Droid Sans', sans-serif;
+    background:#f2f2f2;
+    font-size:14px;
+    line-height:21px;
+    background-color: white;
+    /* margin-top: 5em; */
+  }
+  .header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  background-color: #fff;
+
+      border-bottom: 2px solid #e2e2e2;
+  }
+  .space {
+    padding: 20px 15px 6px 6px;
+  }
+
+
+
+  /* .name {
+    margin: 1em 0em 0em 0em;
+    height: 2.4em;
+  } */
+  .menu {
+    height:1em;
+    margin: .5em .5em 1em .5em;
+    opacity:0;
+  }
+  /* .menu {
+    height:1em;
+    margin: .5em .5em 1em 3.5em;
+  opacity:0;
+  } */
+  .login {
+    /* font-family: nyt-cheltenham,georgia,'times new roman',times,serif; */
+    white-space: nowrap;
+    vertical-align: middle;
+    line-height: 15px;
+    font-size: 1rem;
+    letter-spacing: .05rem;
+    font-weight: 600;
+    display: block;
+    color: rgb(18, 18, 18);
+    border-radius: 3px;
+    transition: all 0.6s ease 0s;
+    /* background: rgba(255, 255, 255, 0); */
+    padding: .5rem;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: rgb(18, 18, 18);
+    border-image: initial;
+    float: right;
+    margin-right: 1.5em;
+    margin-top: 1.25em;
+
+  }
+  .login:hover {
+    text-decoration: none;
+    background-color: #262626;
+    color:white;
+
+  }
+  .name {
+    margin: 1.55em 0em 1.5em -1.5em;
+    height: 2rem;
+  }
+  .heroimg {
+    display: block;
+  margin: 0 auto;
+  height: 12.5em;
+
+  }
+  .center {
+    display: block;
+  margin: 0 auto;
+  /* height: 12.5em; */
+
+  }
+  .jsmaps-text h1 {
+    font-size: 1.5em;
+  }
+  .container div {
+    padding-bottom:1em;
+  }
+  #chartdiv {
+    width: 100%;
+    height: 10rem;
+  }
+  #mapdiv {
+    width: 100%;
+    height: 300px;
+  }
+  .jswrapper {
+      height:10rem;
+
+    }
+    #myTable {
+      font-size: .5em;
+      height: .1em;
+
+    }
+    table.dataTable tbody th, table.dataTable tbody td {
+      padding: 1px 0px;
+    }
+    table.dataTable thead th, table.dataTable thead td {
+      padding: 0px 0px;
+    }
+
+    rect[Attributes Style] {
+      width: 290;
+        height: 200;
+    }
+
+
+.title {
+  font-family: 'nytcheltenhammediumitalic', sans-serif;
+  padding-top: 6rem;
+  font-size: 2rem;
+  /* line-height:1.5625rem; */
+}
+.subtitle {
+  font-family: 'nytcheltenhamextralight', sans-serif;
+  font-size: 1.5rem;
+}
+  .container-fluid {
+
+    margin-top: 45px;
+
+    /* width: 960px; */
+    /* margin:0rem auto; */
+
+
+  }
+.category {
+  font-family: 'nytfranklinbold',serif;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+.caption {
+  font-family: 'nytimperialregular',serif;
+  color: #666;
+  font-size: .8em;
+  line-height: .8rem;
+}
+.author {
+  font-family: 'nytfranklinbold',serif;
+}
+.publish {
+  font-family: 'franklin',serif;
+}
+
+.text {
+  font-family:'nytimperialregular', serif;
+    font-size: 1.125rem;
+    line-height:1.5625rem;
+    color: #666;
+}
+
+
+
+  a img {
+    border:none;
+  }
+
+  h1, h2, h3, h4, h5, h6{
+    font-weight:normal;
+  }
+
+  p, ul{
+    margin-bottom:10px;
+  }
+
+
+
+  /* 375.98 */
+  @media only screen and (min-width: 525px) {
+
+    .heroimg {
+      display: block;
+    margin: 0 auto;
+    height: 20em;
+    }
+    #chartdiv {
+      width: 100%;
+      height: 300px;
+    }
+    #myTable {
+      font-size: 1em;
+      height: .1em;
+
+    }
+    #generalmap {
+      display: block;
+    }
+    table.dataTable tbody th, table.dataTable tbody td {
+      padding: 8px 10px;
+    }
+    table.dataTable thead th, table.dataTable thead td {
+      padding: 0px 0px;
+    }
+
+
+
+    .name {
+      margin: 1.55em 0em 1.5em 0em;
+      height: 2rem;
+    }
+    .login {
+      font-size:1rem;
+      padding:.75rem;
+      margin:1rem;
+    }
+    .category {
+        font-size:1rem;
+        font-weight: 600;
+        line-height:64px;
+        margin-top: 5rem;
+      }
+  .title {
+      font-size:2.75rem;
+      line-height:64px;
+      padding-top: 6rem;
+
+    }
+    .caption {
+      font-size: 1rem;
+      line-height: 1.2rem;
+    }
+    .text {
+      margin-top:3rem;
+      margin-bottom:4rem;
+
+    }
+    .paragraph {
+      margin-top:-3rem;
+    }
+  }
+
+
+
+/* main changes */
+
+@media only screen and (min-width: 740px){
+  .container-fluid {
+    padding: 0em 10rem;
+
+  }
+
+.login {
+  background-color: #262626;
+  color: white;
+}
+.
+
+
+
+
+}
+
+
+
+
+
+
+
+
+  @media only screen and (min-width: 940px){
+    .container-fluid {
+      width: 870px;
+      /* padding: 0em 12em; */
+
+
+    }
+    .name {
+      float: center;
+    }
+    .h1 {
+      font-size: 2rem;
+    }
+    /* .jswrapper h1 {
+      font-size: 25rem;
+      line-height: 3.125rem;
+
+    font-weight: 200;
+    font-style: normal;
+    text-align: left;
+    } */
+  }
+  @media only screen and (max-width: 767px) {
+    .container {
+      width: 520px;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    .container {
+      width: 400px;
+    }
+  }

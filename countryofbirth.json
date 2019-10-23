@@ -1,0 +1,762 @@
+[
+  {
+    "Country of birth": "Afghanistan",
+    "Population": 37680
+  },
+  {
+    "Country of birth": "Africa not otherwise specified",
+    "Population": 6139
+  },
+  {
+    "Country of birth": "Albania",
+    "Population": 7009
+  },
+  {
+    "Country of birth": "Algeria",
+    "Population": 15829
+  },
+  {
+    "Country of birth": "Angola",
+    "Population": 8263
+  },
+  {
+    "Country of birth": "Antarctica",
+    "Population": 25
+  },
+  {
+    "Country of birth": "Antigua and Barbuda",
+    "Population": 1962
+  },
+  {
+    "Country of birth": "Argentina",
+    "Population": 4567
+  },
+  {
+    "Country of birth": "Armenia",
+    "Population": 923
+  },
+  {
+    "Country of birth": "Australia",
+    "Population": 53959
+  },
+  {
+    "Country of birth": "Austria",
+    "Population": 6842
+  },
+  {
+    "Country of birth": "Azerbaijan",
+    "Population": 1335
+  },
+  {
+    "Country of birth": "Bahrain",
+    "Population": 1427
+  },
+  {
+    "Country of birth": "Bangladesh",
+    "Population": 109948
+  },
+  {
+    "Country of birth": "Barbados",
+    "Population": 10389
+  },
+  {
+    "Country of birth": "Belarus",
+    "Population": 1707
+  },
+  {
+    "Country of birth": "Belgium",
+    "Population": 9087
+  },
+  {
+    "Country of birth": "Belize",
+    "Population": 212
+  },
+  {
+    "Country of birth": "Bermuda",
+    "Population": 837
+  },
+  {
+    "Country of birth": "Bolivia",
+    "Population": 2694
+  },
+  {
+    "Country of birth": "Bosnia and Herzegovina",
+    "Population": 3406
+  },
+  {
+    "Country of birth": "Botswana",
+    "Population": 523
+  },
+  {
+    "Country of birth": "Brazil",
+    "Population": 31357
+  },
+  {
+    "Country of birth": "Brunei",
+    "Population": 1073
+  },
+  {
+    "Country of birth": "Bulgaria",
+    "Population": 27207
+  },
+  {
+    "Country of birth": "Burma",
+    "Population": 5162
+  },
+  {
+    "Country of birth": "Burundi",
+    "Population": 1463
+  },
+  {
+    "Country of birth": "Cambodia",
+    "Population": 480
+  },
+  {
+    "Country of birth": "Cameroon",
+    "Population": 4023
+  },
+  {
+    "Country of birth": "Canada",
+    "Population": 21288
+  },
+  {
+    "Country of birth": "Cape Verde",
+    "Population": 616
+  },
+  {
+    "Country of birth": "Channel Islands not otherwise specified",
+    "Population": 202
+  },
+  {
+    "Country of birth": "Chile",
+    "Population": 2913
+  },
+  {
+    "Country of birth": "China",
+    "Population": 39452
+  },
+  {
+    "Country of birth": "Colombia",
+    "Population": 19338
+  },
+  {
+    "Country of birth": "Congo",
+    "Population": 4440
+  },
+  {
+    "Country of birth": "Congo (Democratic Republic)",
+    "Population": 10388
+  },
+  {
+    "Country of birth": "Croatia",
+    "Population": 4025
+  },
+  {
+    "Country of birth": "Cuba",
+    "Population": 1055
+  },
+  {
+    "Country of birth": "Cyprus (European Union)",
+    "Population": 40931
+  },
+  {
+    "Country of birth": "Cyprus (non-European Union)",
+    "Population": 2497
+  },
+  {
+    "Country of birth": "Czech Republic",
+    "Population": 8841
+  },
+  {
+    "Country of birth": "Czechoslovakia not otherwise specified",
+    "Population": 409
+  },
+  {
+    "Country of birth": "Denmark",
+    "Population": 7870
+  },
+  {
+    "Country of birth": "Dominica",
+    "Population": 4533
+  },
+  {
+    "Country of birth": "Dominican Republic",
+    "Population": 465
+  },
+  {
+    "Country of birth": "Ecuador",
+    "Population": 7171
+  },
+  {
+    "Country of birth": "Egypt",
+    "Population": 11556
+  },
+  {
+    "Country of birth": "England",
+    "Population": 4997072
+  },
+  {
+    "Country of birth": "Eritrea",
+    "Population": 10198
+  },
+  {
+    "Country of birth": "Estonia",
+    "Population": 2791
+  },
+  {
+    "Country of birth": "Ethiopia",
+    "Population": 10517
+  },
+  {
+    "Country of birth": "Fiji",
+    "Population": 1239
+  },
+  {
+    "Country of birth": "Finland",
+    "Population": 4951
+  },
+  {
+    "Country of birth": "France",
+    "Population": 66654
+  },
+  {
+    "Country of birth": "Georgia",
+    "Population": 1704
+  },
+  {
+    "Country of birth": "Germany",
+    "Population": 55476
+  },
+  {
+    "Country of birth": "Ghana",
+    "Population": 62896
+  },
+  {
+    "Country of birth": "Gibraltar",
+    "Population": 1611
+  },
+  {
+    "Country of birth": "Great Britain not otherwise specified",
+    "Population": 544
+  },
+  {
+    "Country of birth": "Greece",
+    "Population": 15907
+  },
+  {
+    "Country of birth": "Grenada",
+    "Population": 6815
+  },
+  {
+    "Country of birth": "Guernsey",
+    "Population": 799
+  },
+  {
+    "Country of birth": "Guinea",
+    "Population": 1039
+  },
+  {
+    "Country of birth": "Guinea-Bissau",
+    "Population": 1364
+  },
+  {
+    "Country of birth": "Guyana",
+    "Population": 13798
+  },
+  {
+    "Country of birth": "Hong Kong (Special Administrative Region of China)",
+    "Population": 26435
+  },
+  {
+    "Country of birth": "Hungary",
+    "Population": 17803
+  },
+  {
+    "Country of birth": "Iceland",
+    "Population": 742
+  },
+  {
+    "Country of birth": "India",
+    "Population": 262247
+  },
+  {
+    "Country of birth": "Indonesia",
+    "Population": 2893
+  },
+  {
+    "Country of birth": "Iran",
+    "Population": 37339
+  },
+  {
+    "Country of birth": "Iraq",
+    "Population": 29789
+  },
+  {
+    "Country of birth": "Ireland",
+    "Population": 129807
+  },
+  {
+    "Country of birth": "Isle of Man",
+    "Population": 760
+  },
+  {
+    "Country of birth": "Israel",
+    "Population": 10703
+  },
+  {
+    "Country of birth": "Italy",
+    "Population": 62050
+  },
+  {
+    "Country of birth": "Ivory Coast",
+    "Population": 5635
+  },
+  {
+    "Country of birth": "Jamaica",
+    "Population": 87467
+  },
+  {
+    "Country of birth": "Japan",
+    "Population": 20637
+  },
+  {
+    "Country of birth": "Jersey",
+    "Population": 1445
+  },
+  {
+    "Country of birth": "Jordan",
+    "Population": 1795
+  },
+  {
+    "Country of birth": "Kazakhstan",
+    "Population": 2032
+  },
+  {
+    "Country of birth": "Kenya",
+    "Population": 64212
+  },
+  {
+    "Country of birth": "Korea (North)",
+    "Population": 251
+  },
+  {
+    "Country of birth": "Korea (South)",
+    "Population": 8850
+  },
+  {
+    "Country of birth": "Kosovo",
+    "Population": 21516
+  },
+  {
+    "Country of birth": "Kuwait",
+    "Population": 5967
+  },
+  {
+    "Country of birth": "Kyrgyzstan",
+    "Population": 600
+  },
+  {
+    "Country of birth": "Latvia",
+    "Population": 9857
+  },
+  {
+    "Country of birth": "Lebanon",
+    "Population": 11258
+  },
+  {
+    "Country of birth": "Liberia",
+    "Population": 1801
+  },
+  {
+    "Country of birth": "Libya",
+    "Population": 2334
+  },
+  {
+    "Country of birth": "Lithuania",
+    "Population": 39817
+  },
+  {
+    "Country of birth": "Luxembourg",
+    "Population": 682
+  },
+  {
+    "Country of birth": "Macao (Special Administrative Region of China)",
+    "Population": 480
+  },
+  {
+    "Country of birth": "Macedonia",
+    "Population": 1612
+  },
+  {
+    "Country of birth": "Madagascar",
+    "Population": 479
+  },
+  {
+    "Country of birth": "Malawi",
+    "Population": 3414
+  },
+  {
+    "Country of birth": "Malaysia",
+    "Population": 21209
+  },
+  {
+    "Country of birth": "Malta",
+    "Population": 4718
+  },
+  {
+    "Country of birth": "Mauritius",
+    "Population": 23779
+  },
+  {
+    "Country of birth": "Mexico",
+    "Population": 3785
+  },
+  {
+    "Country of birth": "Middle East not otherwise specified",
+    "Population": 1806
+  },
+  {
+    "Country of birth": "Moldova",
+    "Population": 1602
+  },
+  {
+    "Country of birth": "Mongolia",
+    "Population": 971
+  },
+  {
+    "Country of birth": "Montenegro",
+    "Population": 690
+  },
+  {
+    "Country of birth": "Montserrat",
+    "Population": 4325
+  },
+  {
+    "Country of birth": "Morocco",
+    "Population": 13644
+  },
+  {
+    "Country of birth": "Mozambique",
+    "Population": 2482
+  },
+  {
+    "Country of birth": "Namibia",
+    "Population": 713
+  },
+  {
+    "Country of birth": "Nepal",
+    "Population": 19051
+  },
+  {
+    "Country of birth": "Netherlands",
+    "Population": 18252
+  },
+  {
+    "Country of birth": "New Zealand",
+    "Population": 28547
+  },
+  {
+    "Country of birth": "Nigeria",
+    "Population": 114718
+  },
+  {
+    "Country of birth": "Northern Ireland",
+    "Population": 32774
+  },
+  {
+    "Country of birth": "Norway",
+    "Population": 5385
+  },
+  {
+    "Country of birth": "Occupied Palestinian Territories",
+    "Population": 1483
+  },
+  {
+    "Country of birth": "Oman",
+    "Population": 569
+  },
+  {
+    "Country of birth": "Other",
+    "Population": 26
+  },
+  {
+    "Country of birth": "Other Australasia",
+    "Population": 22
+  },
+  {
+    "Country of birth": "Other Caribbean",
+    "Population": 3583
+  },
+  {
+    "Country of birth": "Other Central America",
+    "Population": 1476
+  },
+  {
+    "Country of birth": "Other Central and Western Africa",
+    "Population": 2077
+  },
+  {
+    "Country of birth": "Other Central Asia",
+    "Population": 643
+  },
+  {
+    "Country of birth": "Other Europe",
+    "Population": 650
+  },
+  {
+    "Country of birth": "Other member countries in March 2001",
+    "Population": 931
+  },
+  {
+    "Country of birth": "Other North Africa",
+    "Population": 5
+  },
+  {
+    "Country of birth": "Other North America",
+    "Population": 89
+  },
+  {
+    "Country of birth": "Other Oceania",
+    "Population": 569
+  },
+  {
+    "Country of birth": "Other South America",
+    "Population": 814
+  },
+  {
+    "Country of birth": "Other South and Eastern Africa",
+    "Population": 512
+  },
+  {
+    "Country of birth": "Other South-East Asia",
+    "Population": 2545
+  },
+  {
+    "Country of birth": "Other Southern Asia",
+    "Population": 271
+  },
+  {
+    "Country of birth": "Pakistan",
+    "Population": 112457
+  },
+  {
+    "Country of birth": "Papua New Guinea",
+    "Population": 300
+  },
+  {
+    "Country of birth": "Peru",
+    "Population": 3301
+  },
+  {
+    "Country of birth": "Philippines",
+    "Population": 44199
+  },
+  {
+    "Country of birth": "Poland",
+    "Population": 158300
+  },
+  {
+    "Country of birth": "Portugal (including Madeira and the Azores)",
+    "Population": 41041
+  },
+  {
+    "Country of birth": "Qatar",
+    "Population": 509
+  },
+  {
+    "Country of birth": "Romania",
+    "Population": 44848
+  },
+  {
+    "Country of birth": "Russia",
+    "Population": 16757
+  },
+  {
+    "Country of birth": "Rwanda",
+    "Population": 2132
+  },
+  {
+    "Country of birth": "Saudi Arabia",
+    "Population": 7271
+  },
+  {
+    "Country of birth": "Scotland",
+    "Population": 89527
+  },
+  {
+    "Country of birth": "Senegal",
+    "Population": 1011
+  },
+  {
+    "Country of birth": "Serbia",
+    "Population": 4316
+  },
+  {
+    "Country of birth": "Seychelles",
+    "Population": 1718
+  },
+  {
+    "Country of birth": "Sierra Leone",
+    "Population": 17245
+  },
+  {
+    "Country of birth": "Singapore",
+    "Population": 10110
+  },
+  {
+    "Country of birth": "Slovakia",
+    "Population": 12800
+  },
+  {
+    "Country of birth": "Slovenia",
+    "Population": 830
+  },
+  {
+    "Country of birth": "Somalia",
+    "Population": 65333
+  },
+  {
+    "Country of birth": "South Africa",
+    "Population": 57765
+  },
+  {
+    "Country of birth": "Spain (including Canary Islands)",
+    "Population": 35880
+  },
+  {
+    "Country of birth": "Sri Lanka",
+    "Population": 84542
+  },
+  {
+    "Country of birth": "St Helena",
+    "Population": 356
+  },
+  {
+    "Country of birth": "St Kitts and Nevis",
+    "Population": 1186
+  },
+  {
+    "Country of birth": "St Lucia",
+    "Population": 7145
+  },
+  {
+    "Country of birth": "St Vincent and the Grenadines",
+    "Population": 3021
+  },
+  {
+    "Country of birth": "Sudan",
+    "Population": 6945
+  },
+  {
+    "Country of birth": "Swaziland",
+    "Population": 358
+  },
+  {
+    "Country of birth": "Sweden",
+    "Population": 14747
+  },
+  {
+    "Country of birth": "Switzerland",
+    "Population": 7416
+  },
+  {
+    "Country of birth": "Syria",
+    "Population": 3915
+  },
+  {
+    "Country of birth": "Taiwan",
+    "Population": 3858
+  },
+  {
+    "Country of birth": "Tanzania",
+    "Population": 16156
+  },
+  {
+    "Country of birth": "Thailand",
+    "Population": 10250
+  },
+  {
+    "Country of birth": "The Bahamas",
+    "Population": 458
+  },
+  {
+    "Country of birth": "The Gambia",
+    "Population": 3619
+  },
+  {
+    "Country of birth": "Togo",
+    "Population": 863
+  },
+  {
+    "Country of birth": "Trinidad and Tobago",
+    "Population": 11954
+  },
+  {
+    "Country of birth": "Tunisia",
+    "Population": 2485
+  },
+  {
+    "Country of birth": "Turkey",
+    "Population": 59596
+  },
+  {
+    "Country of birth": "Uganda",
+    "Population": 32136
+  },
+  {
+    "Country of birth": "Ukraine",
+    "Population": 8759
+  },
+  {
+    "Country of birth": "Union of Soviet Socialist Republics not otherwise specified",
+    "Population": 1069
+  },
+  {
+    "Country of birth": "United Arab Emirates",
+    "Population": 3510
+  },
+  {
+    "Country of birth": "United Kingdom not otherwise specified",
+    "Population": 1932
+  },
+  {
+    "Country of birth": "United States",
+    "Population": 63920
+  },
+  {
+    "Country of birth": "Uruguay",
+    "Population": 540
+  },
+  {
+    "Country of birth": "Uzbekistan",
+    "Population": 1533
+  },
+  {
+    "Country of birth": "Venezuela",
+    "Population": 3822
+  },
+  {
+    "Country of birth": "Vietnam",
+    "Population": 15337
+  },
+  {
+    "Country of birth": "Wales",
+    "Population": 53828
+  },
+  {
+    "Country of birth": "Yemen",
+    "Population": 4453
+  },
+  {
+    "Country of birth": "Yugoslavia not otherwise specified",
+    "Population": 1832
+  },
+  {
+    "Country of birth": "Zambia",
+    "Population": 7123
+  },
+  {
+    "Country of birth": "Zimbabwe",
+    "Population": 21309
+  }
+]
