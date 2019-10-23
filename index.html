@@ -6,25 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
 
-
+<!-- Based on NYT -->
     <title>Diversity in London's DNA</title>
-
-  <!-- Demo scripts -->
   <link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" rel="stylesheet" type="text/css" />
-
-
-  <!-- End Demo scripts -->
-
-  <!-- Jquery is required, embed on your page if not already - don't embed 2 versions -->
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript"></script>
-  <!-- End Jquery -->
-
-  <!-- Map scripts - add the below to your page -->
-  <!-- jsmaps-panzoom.js is optional if you are using enablePanZoom -->
+  <!-- https://jsmaps.io/ -->
   <link href="jsmaps/jsmaps.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.20/datatables.min.css"/>
+<!-- https://c3js.org/ -->
 <link href="c3.min.css" rel="stylesheet">
   <link href="style.css" rel="stylesheet">
 
@@ -35,7 +26,10 @@
 <body>
   <div class="header">
     <img class="menu" src="icons8-menu-24.png" alt=" "/>
+    <img class="search" src="icons8-search-50.png" alt=" "/>
+    <a class="category" href="#">EUROPE</a>
       <img class="name" src="NYT.png" alt="nyt"/>
+      <a class="subscribe" href="#">Subscribe</a>
       <a class="login" href="#">Log in</a>
       <!-- <div class="name"></div> -->
 
@@ -55,7 +49,7 @@
 <img class="heroimg" src="heroimg.jpg" alt="heroimg"/>
 
 <p class="caption">
-  A map made up of the passports of the most most common non-British nationalities in every London borough.
+  A map made up of the passports of the most most common non-British nationalities in every London borough. <span style="color:#b3b3b3; font-size:.8em">Yanko Tihov</span>
 </p>
 
 <p class="author">By Angel Santaloci</p>
@@ -70,21 +64,20 @@
 </div>
 
 <p class="text">
-London is known for many things - it's tasty food, wondrous attractions, established history - yet what makes London particularly different by comparison to any other major city is its plethora of cultural diversity.
+London is known for many things - its tasty food, famous attractions, established history - yet what makes London particularly different by comparison to any other major city is its plethora of cultural diversity.
 
 </p>
 <p class="text paragraph">
 Recent data shows that nearly a third of London's population is made up of immigrants from all over the world.
 Below is the world map displaying the population samples of where Londoner's countries of birth originated, not including London.
 </p>
-<div id="mapdiv" class=""></div>
+<div id="mapdiv"></div>
 <p class="caption">A map of the concentrations of Londoners based on their country of birth.</p>
 <p class="text">
 The 8 largest populations of the immigrants coming into London are India, Bangladesh, Poland, Romania, Italy, Pakistan, Ireland, and Nigeria. However, this percentage only scratches the tip of the iceberg, being only % of the total London population. Within these largest populations, the standout in this specific data shown below is India, which brings in more than double the amount of
 people than the second most largest country going to London, Bangladesh (262,247 compared to 109,948 people).
 
 </p>
-  <!-- <div id="chartdiv" class="" ></div> -->
 
      <div class="center" id="chart" style="width:300px; height:300px"></div>
      <p class="caption">The top 8 largest populations of out of country citizens in London.</p>
@@ -94,12 +87,10 @@ people than the second most largest country going to London, Bangladesh (262,247
   The areas which are purple signify even distribution of these minority groups within the borough, while the more pure key colors indicate high saturation of certain groups in a specific borough.
 
   </p>
+  <p class="text paragraph">
+    As seen in the data provided, there is a more even distribution between the different ethnicity groups towards the center (City of London), yet there are small areas of boroughs that seem more concentrated with a certain ethnic group compared to others, such as the west side of London having a larger asian population compared to black and others. This correlation suggests the creation of specific ethnic communities within these certain boroughs.
+  </p>
 
-
-
-    <!-- Map html - add the below to your page -->
-    <!-- <button id="toggle" onclick="">Click Me</button> -->
-    <!-- <div id="generalmap"> -->
     <p class="caption">Key:</p>
 
       <span style=" color: white; background-color:#990045; padding: .5em"> Asian </span>
@@ -160,6 +151,7 @@ people than the second most largest country going to London, Bangladesh (262,247
   <script src="maps/LondonBoroughs.js" type="text/javascript"></script>
   <script src="d3.min.js"></script>
    <script src="c3.min.js"></script>
+   <!-- https://www.amcharts.com/ -->
 <script src="https://www.amcharts.com/lib/4/core.js"></script>
 <script src="https://www.amcharts.com/lib/4/charts.js"></script>
 <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
