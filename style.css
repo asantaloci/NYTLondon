@@ -32,45 +32,9 @@
 }
 
 @font-face {
-    font-family: 'nytcheltenhamcondmedium';
-    src: url('cheltenham-cond-normal-500-webfont.woff2') format('woff2'),
-         url('cheltenham-cond-normal-500-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'nytcheltenhambook';
-    src: url('cheltenham-normal-400-webfont.woff2') format('woff2'),
-         url('cheltenham-normal-400-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
     font-family: 'nytcheltenhammedium';
     src: url('cheltenham-normal-500-webfont.woff2') format('woff2'),
          url('cheltenham-normal-500-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'nytcheltenhamwideregular';
-    src: url('cheltenham-wide-normal-400-webfont.woff2') format('woff2'),
-         url('cheltenham-wide-normal-400-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'nytcheltenhamlight';
-    src: url('cheltenham-normal-300-webfont.woff2') format('woff2'),
-         url('cheltenham-normal-300-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -204,10 +168,6 @@
       padding: 0px 0px;
     }
 
-    rect[Attributes Style] {
-      width: 290;
-        height: 200;
-    }
 
 
 .title {
@@ -327,7 +287,6 @@ margin:-1.9rem 7.5rem 0rem -1rem;
       margin: 0 auto;
       margin-top: -2.55rem;
       display: block;
-      float: center;
       height: 2.05rem;
     }
     .search {
@@ -430,9 +389,7 @@ margin:-1.9rem 7.5rem 0rem -1rem;
 
 
     }
-    .name {
-      float: center;
-    }
+  
     .h1 {
       font-size: 2rem;
     }
